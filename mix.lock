@@ -10,6 +10,6 @@
   "pokerap": {:hex, :pokerap, "0.0.12", "234a22f2087831010d9cdd7bf5327501099724b1c3d5c70b9d60afc6d4c1b77e", [:mix], [{:httpoison, "~> 0.9.0", [hex: :httpoison, optional: false]}, {:poison, "~> 3.0", [hex: :poison, optional: false]}]},
   "poolboy": {:hex, :poolboy, "1.5.1", "6b46163901cfd0a1b43d692657ed9d7e599853b3b21b95ae5ae0a777cf9b6ca8", [:rebar], []},
   "slack": {:hex, :slack, "0.8.0", "1241039a6f3397e0cb454bf963b84d3d90b11964d381f82477746088e0463a2b", [:mix], [{:exjsx, "~> 3.2.0", [hex: :exjsx, optional: false]}, {:httpoison, "~> 0.9.0", [hex: :httpoison, optional: false]}, {:websocket_client, "~> 1.1.0", [hex: :websocket_client, optional: false]}]},
-  "slack_professor": {:git, "https://github.com/lastcontinue/slack_professor.git", "fcb540adf109f2722f8411d2145d5452ab8109f1", []},
+  "slack_professor": {:git, "https://github.com/lastcontinue/slack_professor.git", "091e81db53f20c5250884793d5758d163da0f7e3", []},
   "ssl_verify_fun": {:hex, :ssl_verify_fun, "1.1.1", "28a4d65b7f59893bc2c7de786dec1e1555bd742d336043fe644ae956c3497fbe", [:make, :rebar], []},
   "websocket_client": {:hex, :websocket_client, "1.1.0", "c1ac9162a2286d3ca747417b1717090e762becba1f9f0bde359cb0318b066636", [:rebar3], []}}
