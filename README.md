@@ -8,9 +8,9 @@ is set to read from System vars. Details below on how that needs to be setup.
 
 Enjoy!
 
-## Usage  
+## Usage
 
 1. clone this repo
 1. set `SLACKBOT_TOKENS` ENV variable (`export SLACKBOT_TOKENS="token1, token2, tokenX"`), using a comma
-to separate the tokens.
-1. `mix run -e ProfDemo.start_bots --no-halt`, or `iex -S mix` then run `ProfDemo.start_bots` if you want to play along
+to separate the tokens. Spaces get stripped so doesn't matter one way or the other.
+1. Run `mix run -no-halt`, or `iex -S mix` if you want to play along
